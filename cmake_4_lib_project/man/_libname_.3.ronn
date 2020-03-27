@@ -1,0 +1,27 @@
+## NAME
+
+_libname_ - TBD
+
+## SYNOPSIS
+
+TODO
+
+## DESCRIPTION
+
+TODO
+
+## RETURN VALUE
+
+TODO
+
+## EXAMPLES
+
+TODO
+
+## SEE ALSO
+
+TODO
+
+## AUTHOR
+
+_author_ <_author_email_>
