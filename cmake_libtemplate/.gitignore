@@ -1,3 +1,5 @@
 # CMake
+include/config.h
 build*
+debug*
 bin

@@ -15,6 +15,10 @@
 #ifndef SYSHELLO_H
 #define SYSHELLO_H
 
+#include "config.h"
+
 void hello(void);
+
+void hello_version(void);
 
 #endif /* syshello.h */

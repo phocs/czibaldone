@@ -20,4 +20,4 @@
  */
 int string_lower(char *buf);
 
-#endif /* fromatter.h */
+#endif /* formatter.h */

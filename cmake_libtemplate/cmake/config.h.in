@@ -1,0 +1,14 @@
+/* Define to the full name of this package. */
+#define LIB_NAME "@PROJECT_NAME@"
+
+/* Define to the home page for this package. */
+#define LIB_URL "@CMAKE_PROJECT_HOMEPAGE_URL@"
+
+/* Define to the version of this package. */
+#define LIB_VERSION "@PROJECT_VERSION@"
+
+/* Define to the full path lib directory. */
+#define LIB_DIR "@CMAKE_INSTALL_PREFIX@/@CMAKE_INSTALL_LIBDIR@"
+
+/* Define to the full path include directory. */
+#define LIB_INCLUDE_DIR "@CMAKE_INSTALL_PREFIX@/@CMAKE_INSTALL_INCLUDEDIR@"

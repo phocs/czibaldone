@@ -18,6 +18,6 @@
 #include <stdio.h>
 #include <string.h>
 
-int invert_string(char *buf, char *str);
+int invert_string(char *buf, const char *str);
 
 #endif /* utils.h */
